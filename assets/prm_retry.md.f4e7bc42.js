@@ -17,6 +17,6 @@ import{_ as s,c as a,o as n,a as l}from"./app.2878b605.js";const A=JSON.parse('{
 <span class="line"><span style="color:#F07178;">        </span><span style="color:#F78C6C;">5</span></span>
 <span class="line"><span style="color:#F07178;">    )</span><span style="color:#89DDFF;">;</span></span>
 <span class="line"><span style="color:#89DDFF;">}</span><span style="color:#A6ACCD;"> </span><span style="color:#89DDFF;font-style:italic;">catch</span><span style="color:#A6ACCD;"> (e) </span><span style="color:#89DDFF;">{</span></span>
-<span class="line"><span style="color:#F07178;">    </span><span style="color:#A6ACCD;">e</span><span style="color:#F07178;"> </span><span style="color:#676E95;font-style:italic;">// // &#39;Donatello&#39; </span></span>
+<span class="line"><span style="color:#F07178;">    </span><span style="color:#A6ACCD;">e</span><span style="color:#F07178;"> </span><span style="color:#676E95;font-style:italic;">// &#39;Donatello&#39;</span></span>
 <span class="line"><span style="color:#89DDFF;">}</span></span>
 <span class="line"></span></code></pre></div>`,6),e=[o];function t(c,r,F,y,D,i){return n(),a("div",null,e)}const d=s(p,[["render",t]]);export{A as __pageData,d as default};

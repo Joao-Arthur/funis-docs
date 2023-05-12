@@ -8,6 +8,6 @@ import{_ as s,c as a,o as n,a as l}from"./app.2878b605.js";const A=JSON.parse('{
 <span class="line"><span style="color:#F07178;">        </span><span style="color:#F78C6C;">500</span></span>
 <span class="line"><span style="color:#F07178;">    )</span><span style="color:#89DDFF;">;</span></span>
 <span class="line"><span style="color:#89DDFF;">}</span><span style="color:#A6ACCD;"> </span><span style="color:#89DDFF;font-style:italic;">catch</span><span style="color:#A6ACCD;"> (e) </span><span style="color:#89DDFF;">{</span></span>
-<span class="line"><span style="color:#F07178;">    </span><span style="color:#A6ACCD;">e</span><span style="color:#F07178;"> </span><span style="color:#676E95;font-style:italic;">// // &#39;Hello, promise!&#39; </span></span>
+<span class="line"><span style="color:#F07178;">    </span><span style="color:#A6ACCD;">e</span><span style="color:#F07178;"> </span><span style="color:#676E95;font-style:italic;">// &#39;Hello, promise!&#39;</span></span>
 <span class="line"><span style="color:#89DDFF;">}</span></span>
 <span class="line"></span></code></pre></div>`,5),o=[p];function t(c,r,i,y,F,D){return n(),a("div",null,o)}const m=s(e,[["render",t]]);export{A as __pageData,m as default};
